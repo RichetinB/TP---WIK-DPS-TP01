@@ -28,7 +28,7 @@ node build/index.js
 
 ### Étape 6 : Tester l'API
 
-Ouvrez un navigateur ou un outil comme Postman et envoyez une requête GET à l'URL suivante ou en fonction du port de l'environnement, :
+Ouvrez un navigateur ou un outil comme Postman et envoyez une requête GET à l'URL suivante ou en fonction du port de votre environnement, :
 
 ```
 http://localhost:3000/ping
